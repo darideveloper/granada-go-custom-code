@@ -1,0 +1,288 @@
+[
+    {
+        "id": "alhambra",
+        "slug": "visita-guiada-alhambra-historiador",
+        "meta_title": "Visita Guiada Alhambra Granada | Guía Historiador Privado",
+        "meta_description": "Descubre la Alhambra y el Generalife con Alejandro, guía oficial e historiador. Una visita privada para entender a fondo el legado nazarí. ¡Consulta disponibilidad!",
+        "category": "Monumental",
+        "meeting_point": "Pabellón de acceso de la Alhambra (junto a la maqueta de bronce)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador",
+            "Asesoramiento logístico previo"
+        ],
+        "booking_url": "/contacto?tour=alhambra",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "Visita Guiada a la Alhambra",
+        "subtitle": "Historia, Arte y Significado con un Experto",
+        "focus": "La \"joya de la corona\". Un viaje profundo para ir más allá de los muros y entender el complejo musulmán más importante de Europa.",
+        "introduction": "Bienvenido a la joya de la corona. La Alhambra no es solo un monumento; es un libro abierto que narra el esplendor de una civilización. En este recorrido, no nos limitaremos a ver patios y fuentes; nos sumergiremos en la Alcazaba, el Generalife y los Palacios Nazaríes para descifrar su simbología, su función política y la vida cotidiana de los sultanes. Como historiador, mi objetivo es que comprendas el *porqué* de cada yesería y cada poema inscrito en sus paredes, alejándonos de la visita turística convencional para vivir una experiencia de inmersión cultural.",
+        "discoveries": [
+            {
+                "title": "Palacios Nazaríes",
+                "description": "El cenit del arte islámico: arquitectura, poesía y poder político entrelazados."
+            },
+            {
+                "title": "La Alcazaba",
+                "description": "La fortaleza militar que protegió a la dinastía nazarí y ofrece las mejores vistas del Albaicín."
+            },
+            {
+                "title": "Generalife",
+                "description": "Jardines y huertas reales: el concepto coránico del paraíso y el descanso de los reyes."
+            }
+        ],
+        "options": [
+            {
+                "title": "Alhambra Completa",
+                "duration": "3h",
+                "price": 140,
+                "description": "Recorrido integral: Palacios Nazaríes, Alcazaba y Generalife. (Sin entradas)"
+            },
+            {
+                "title": "Alhambra Exterior",
+                "duration": "1.5h",
+                "price": 100,
+                "description": "Paseo por el entorno monumental de acceso libre: Palacio de Carlos V, Museo de la Alhambra, Puerta de la Justicia y Bosques. (Sin entradas)"
+            },
+            {
+                "title": "Solo Palacios Nazaríes",
+                "duration": "1.5h",
+                "price": 100,
+                "description": "Visita exclusiva centrada en el corazón artístico del monumento. (Sin entradas)"
+            }
+        ]
+    },
+    {
+        "id": "catedral-capilla-real",
+        "slug": "tour-catedral-capilla-real-granada",
+        "meta_title": "Visita Catedral y Capilla Real Granada | Reyes Católicos",
+        "meta_description": "Tour esencial por la Granada cristiana. Visita la Catedral y la tumba de los Reyes Católicos con un historiador del arte. Comprende el Renacimiento español.",
+        "category": "Monumental",
+        "meeting_point": "Plaza de las Pasiegas (Frente a la fachada principal de la Catedral)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador",
+            "Interpretación histórico-artística"
+        ],
+        "booking_url": "/contacto?tour=catedral-capilla-real",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "Catedral y Capilla Real",
+        "subtitle": "El Corazón Cristiano y el Legado de los Reyes Católicos",
+        "focus": "El paso de la Edad Media al Renacimiento. Una lección magistral sobre el cambio de era en Granada y España.",
+        "introduction": "Dos monumentos clave para entender la historia de España se alzan en el centro de Granada. En este tour, exploraremos la transición del mundo medieval al Renacimiento. Visitaremos la Capilla Real, panteón de los Reyes Católicos y símbolo de su poder, donde reposan Isabel y Fernando. A continuación, nos adentraremos en la Catedral de Granada, primera del Renacimiento español y obra cumbre de Alonso Cano. Analizaremos no solo su arquitectura impone, sino el mensaje político y religioso que transformó la ciudad tras la conquista de 1492.",
+        "discoveries": [
+            {
+                "title": "Catedral de Granada",
+                "description": "Grandiosidad y luz: la fachada de Alonso Cano y una de las naves más altas del mundo."
+            },
+            {
+                "title": "Capilla Real",
+                "description": "El mausoleo de los Reyes Católicos y su impresionante colección personal de pintura flamenca."
+            }
+        ],
+        "options": [
+            {
+                "title": "Catedral y Capilla Real",
+                "duration": "2h",
+                "price": 100,
+                "description": "Visita combinada a ambos monumentos."
+            }
+        ]
+    },
+    {
+        "id": "monasterios",
+        "slug": "tour-monasterios-granada-barroco",
+        "meta_title": "Ruta Barroco Granada: La Cartuja y San Jerónimo | Guía Experto",
+        "meta_description": "Descubre las joyas del barroco granadino: Monasterio de la Cartuja y San Jerónimo. Arte, silencio y espiritualidad explicados por un experto. ¡Reserva ahora!",
+        "category": "Religioso",
+        "meeting_point": "A convenir (Entrada de Cartuja o San Jerónimo)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador"
+        ],
+        "booking_url": "/contacto?tour=monasterios",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "Monasterios: Cartuja y San Jerónimo",
+        "subtitle": "El Esplendor del Barroco y la Espiritualidad",
+        "focus": "Arte, silencio y poder. Un recorrido por la cumbre del arte barroco español y la historia de las grandes órdenes religiosas.",
+        "introduction": "Lejos del bullicio del centro se encuentran dos tesoros artísticos que a menudo pasan desapercibidos, pero que son imprescindibles para los amantes del arte. La Cartuja es el paroxismo del barroco: una explosión de decoración que busca abrumar los sentidos y elevar el alma. Por otro lado, San Jerónimo nos habla del poder militar y la nobleza, siendo el lugar de descanso del Gran Capitán. En esta ruta, desgranaremos la teología hecha piedra, la vida monástica y la impresionante técnica artística que define el 'Siglo de Oro' granadino.",
+        "discoveries": [
+            {
+                "title": "La Cartuja",
+                "description": "Conocida como la 'Sacristía más bella del mundo' y un Sagrario que desafía al vacío."
+            },
+            {
+                "title": "San Jerónimo",
+                "description": "Renacimiento y gloria militar en el mausoleo del Gran Capitán, Gonzalo Fernández de Córdoba."
+            }
+        ],
+        "options": [
+            {
+                "title": "Ruta de los Monasterios",
+                "duration": "2.5h",
+                "price": 110,
+                "description": "Visita profunda a la Cartuja y San Jerónimo."
+            }
+        ]
+    },
+    {
+        "id": "albaicin",
+        "slug": "tour-albaicin-misterios-leyendas",
+        "meta_title": "Tour Albaicín: Historia, Leyendas y Vistas Alhambra",
+        "meta_description": "Callejea por el Albaicín, Patrimonio de la Humanidad. Un paseo entre historia nazarí, leyendas locales y los mejores miradores a la Alhambra. ¡Únete al tour!",
+        "category": "Barrios",
+        "meeting_point": "Plaza Nueva (junto a la Fuente de los Granados)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador",
+            "Recorrido por miradores"
+        ],
+        "booking_url": "/contacto?tour=albaicin",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "Paseo por el Albaicín",
+        "subtitle": "Historia, Enigmas y Miradores Inolvidables",
+        "focus": "El alma antigua de Granada. Un laberinto de calles blancas donde cada esquina guarda una leyenda y cada mirador, una postal.",
+        "introduction": "El Albaicín no es solo un barrio; es el origen de todo. Declarado Patrimonio de la Humanidad, este antiguo arrabal musulmán conserva su trazado medieval intacto. Caminaremos por sus callejuelas estrechas, descubriendo aljibes, cármenes y restos de murallas que nos hablan de la vida en la Granada nazarí. Pero el Albaicín también es misterio: te contaré las leyendas que se susurran en sus plazas y terminaremos contemplando el atardecer sobre la Alhambra desde el icónico mirador de San Nicolás. Un paseo imprescindible para sentir la ciudad.",
+        "discoveries": [
+            {
+                "title": "Patrimonio Andalusí",
+                "description": "La evolución urbana: del esplendor zirí y nazarí a la transformación cristiana."
+            },
+            {
+                "title": "Misterios y Leyendas",
+                "description": "Relatos de amores prohibidos y sucesos inexplicables que forman parte del imaginario local."
+            },
+            {
+                "title": "Mirador de San Nicolás",
+                "description": "La vista panorámica más famosa del mundo: la Alhambra y Sierra Nevada frente a ti."
+            }
+        ],
+        "options": [
+            {
+                "title": "Misterios y Leyendas",
+                "duration": "1.5h",
+                "price": 90,
+                "description": "Ruta nocturna o vespertina centrada en la tradición oral y el encanto del barrio."
+            },
+            {
+                "title": "Centro Histórico y Albaicín",
+                "duration": "2h",
+                "price": 100,
+                "description": "Combinación perfecta: zona baja cristiana y ascenso al barrio árabe."
+            }
+        ]
+    },
+    {
+        "id": "sacromonte",
+        "slug": "tour-sacromonte-cuevas-flamenco",
+        "meta_title": "Visita Sacromonte: Cuevas, Abadía y Flamenco en Granada",
+        "meta_description": "Adéntrate en el Sacromonte gitano. Conoce la vida en las cuevas, el origen del flamenco y la histórica Abadía del Monte Sacro. Una experiencia auténtica.",
+        "category": "Barrios",
+        "meeting_point": "Peso de la Harina (Inicio Cuesta del Chapiz)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador",
+            "Interpretación etnográfica"
+        ],
+        "booking_url": "/contacto?tour=sacromonte",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "El Sacromonte",
+        "subtitle": "Cuevas, Flamenco y Espiritualidad",
+        "focus": "El barrio con más 'duende'. Un paisaje único de chumberas y cuevas blancas donde nació la zambra y se forjó una identidad única.",
+        "introduction": "Frente a la Alhambra, en el Valle de Valparaíso, el Sacromonte ofrece una estampa única en el mundo. Aquí, la tierra se habita: visitaremos el exterior de las famosas casas-cueva para entender cómo la comunidad gitana adaptó el entorno a su forma de vida. Hablaremos del origen del flamenco granadino, la 'Zambra', y subiremos hasta la Abadía del Sacromonte, lugar de hallazgos (los Libros Plúmbeos) que reescribieron la historia de la ciudad. Un tour antropológico, histórico y paisajístico en uno de los rincones más singulares de España.",
+        "discoveries": [
+            {
+                "title": "Viviendas Trogloditas",
+                "description": "Arquitectura bioclimática vernácula: la vida en el interior de la montaña."
+            },
+            {
+                "title": "La Abadía",
+                "description": "Cuna del cristianismo en Granada, reliquias y una panorámica desconocida de la Alhambra."
+            },
+            {
+                "title": "Cultura Gitana",
+                "description": "El flamenco como expresión de dolor y alegría: historia de una marginación transformada en arte."
+            }
+        ],
+        "options": [
+            {
+                "title": "Ruta Sacromonte",
+                "duration": "Consultar",
+                "price": "Consultar",
+                "description": "El precio varía según duración y si se incluye visita interior a la Abadía."
+            }
+        ]
+    },
+    {
+        "id": "san-juan-de-dios",
+        "slug": "basilica-san-juan-de-dios-granada",
+        "meta_title": "Visita Basílica San Juan de Dios | Joya del Barroco Aúreo",
+        "meta_description": "Visita la Basílica de San Juan de Dios en Granada. Una obra maestra del barroco aúreo y lugar de reposo del santo de los pobres. Fe y arte unidos.",
+        "category": "Religioso",
+        "meeting_point": "Calle San Juan de Dios (Puerta Principal de la Basílica)",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "included": [
+            "Guía oficial historiador"
+        ],
+        "booking_url": "/contacto?tour=san-juan-de-dios",
+        "disclaimer": "Nota: Las entradas a los monumentos no están incluidas en el precio del servicio de guía y deben ser gestionadas por el cliente.",
+        "contact_info": {
+            "whatsapp": "https://wa.me/34662338112"
+        },
+        "title": "Basílica de San Juan de Dios",
+        "subtitle": "El Barroco en su Máxima Expresión",
+        "focus": "Luz, oro y devoción. Un templo que brilla con luz propia y que cuenta la historia de la caridad en Granada.",
+        "introduction": "La Basílica de San Juan de Dios no deja indiferente a nadie; es, sencillamente, deslumbrante. Concebida como un relicario gigante para albergar los restos de Juan de Dios, patrón de los enfermos y figura clave en la historia social de Granada. En esta visita, exploraremos cada rincón de este templo revestido de oro y espejos, analizando su programa iconográfico y la impresionante labor de la Orden Hospitalaria. Una experiencia visual y espiritual intensa que nos permite conocer el lado más humano y devoto de la ciudad.",
+        "discoveries": [
+            {
+                "title": "Barroco Aúreo",
+                "description": "El horror vacui llevado el extremo: retablos dorados, frescos y espejos que crean una atmósfera celestial."
+            },
+            {
+                "title": "Camarín del Santo",
+                "description": "La estancia más sagrada y lujosa del templo, donde se veneran las reliquias de San Juan de Dios."
+            }
+        ],
+        "options": [
+            {
+                "title": "Visita Basílica y Hospital",
+                "duration": "Consultar",
+                "price": "Consultar",
+                "description": "Posibilidad de combinar con el patio del Hospital antiguo. Consultar disponibilidad."
+            }
+        ]
+    }
+]
